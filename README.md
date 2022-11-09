@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnmcbrayer
+- 👋 Hi, I’m @openwaterlabs
 - 👀 I’m interested in assymbling a small group of co-founders 
 - 🌱 I’m currently learning the Project is Open Water Labs (Switzerland) 
 - 💞️ I’m looking to collaborate on the goal is to make new edge devices that push the edge of edge 
@@ -17,10 +17,10 @@
 - Use Cases NGO, Gov't, Corporate Compliance, Environmental Activist, Health Organizations 
 
 
-- 📫 How to reach me jlmcbrayer@bluewin.ch 
+- 📫 How to reach me openwaterlabs@gmail.com 
 - Send a CV - looking for electrical engineer or anyone who is regardless of degree, programming C, R, Rust, Python, Ansebel, Java, grant writer / marketing and creative manager, materials specialist 
 
 <!---
-JohnMcBrayer/JohnMcBrayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+openwaterlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
